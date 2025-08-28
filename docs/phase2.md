@@ -35,7 +35,7 @@ In addition to mobile built‑in sensors, I integrated the following **external 
 
 | <img width="250" alt="BMP180" src="/images/bmp180.png" /> | <img width="250" alt="APDS9960" src="/images/apds9960.png" /> | <img width="250" alt="VL53L0X" src="/images/vl53l0x.png" /> |
 | --- | --- | --- |
-| | <img width="250" alt="ADS1115" src="/images/ads1115.png" /> | |
+| | <img width="250" alt="ADS1115" src="images/ads1115.png" /> | |
 
 ---
 
