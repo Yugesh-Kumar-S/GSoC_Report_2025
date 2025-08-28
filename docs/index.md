@@ -1,5 +1,5 @@
 # Google Summer of Code 2025
-<img src="/images/gsoc_fossasia.png" align="center">
+<img src="images/gsoc_fossasia.png" align="center">
 
 ---
 ## Project Overview

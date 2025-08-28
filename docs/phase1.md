@@ -13,7 +13,6 @@ The following instruments were ported into the PSLab Flutter app:
 - **Barometer**  
 - **Thermometer**  
 
-docs\images\ads1115.png
 | <img width="250" alt="luxmeter" src="docs/images/luxmeter.png" /> | <img width="250" alt="compass" src="docs/images/compass.png" /> | <img width="250" alt="soundmeter" src="docs/images/soundmeter.png" /> |
 |---|---|---|
 | <img width="250" alt="barometer" src="docs/images/barometer.png" /> | <img width="250" alt="gyroscope" src="docs/images/gyroscope.png" /> | <img width="250" alt="thermometer" src="docs/images/thermometer.png" /> |
