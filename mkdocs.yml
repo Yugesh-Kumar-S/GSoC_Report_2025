@@ -2,7 +2,7 @@ site_name: GSoC 2025 Final Report
 
 theme:
   name: material
-  logo: /images/Yugesh_icon.png
+  logo: images/Yugesh_icon.png
   palette:
     - scheme: default
       primary: deep purple

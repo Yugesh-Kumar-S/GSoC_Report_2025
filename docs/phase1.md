@@ -13,9 +13,9 @@ The following instruments were ported into the PSLab Flutter app:
 - **Barometer**  
 - **Thermometer**  
 
-| <img width="250" alt="luxmeter" src="docs/images/luxmeter.png" /> | <img width="250" alt="compass" src="docs/images/compass.png" /> | <img width="250" alt="soundmeter" src="docs/images/soundmeter.png" /> |
+| <img width="250" alt="luxmeter" src="../images/luxmeter.png" /> | <img width="250" alt="compass" src="../images/compass.png" /> | <img width="250" alt="soundmeter" src="../images/soundmeter.png" /> |
 |---|---|---|
-| <img width="250" alt="barometer" src="docs/images/barometer.png" /> | <img width="250" alt="gyroscope" src="docs/images/gyroscope.png" /> | <img width="250" alt="thermometer" src="docs/images/thermometer.png" /> |
+| <img width="250" alt="barometer" src="../images/barometer.png" /> | <img width="250" alt="gyroscope" src="../images/gyroscope.png" /> | <img width="250" alt="thermometer" src="../images/thermometer.png" /> |
 
 ---
 
@@ -25,7 +25,7 @@ The following instruments were ported into the PSLab Flutter app:
 With PSLab offering a wide range of instruments, navigation could become overwhelming.  
 To improve accessibility, I implemented a **search bar** that allows users to quickly find instruments.  
 
-<img width=250 alt="search_feature" src="/images/search_feature.gif" />
+<img width=250 alt="search_feature" src="../images/search_feature.gif" />
 
 ---
 
@@ -33,11 +33,11 @@ To improve accessibility, I implemented a **search bar** that allows users to qu
 I introduced **light/dark theme support** and refactored the codebase to adapt dynamically to the system theme.  
 This ensures a more modern and user-friendly experience across devices.  
 
-<img width="250" alt="theme_feature" src="/images/theme_feature.gif" />
+<img width="250" alt="theme_feature" src="../images/theme_feature.gif" />
 
 ---
 
 ### Responsive UI  
 All the implemented instrument screens were adapted for **different screen sizes** to ensure usability across phones and desktops.  
 
-<img alt="desktop" src="/images/desktop.png" />
+<img alt="desktop" src="../images/desktop.png" />
