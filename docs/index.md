@@ -8,7 +8,7 @@ As PSLab transitions from a native Android app to a Flutter-based cross-platform
 
 --- 
 
-## Project details
+## Project Details
 - **Student name:** [Yugesh Kumar S](https://github.com/Yugesh-Kumar-S)
 - **Project Title:** [PSLab : Sensor Module Integration, Experiment Framework, and Data Intelligence Tools](https://summerofcode.withgoogle.com/programs/2025/projects/AD7fchJF)
 - **Organization:** [FOSSASIA](https://fossasia.org/)
