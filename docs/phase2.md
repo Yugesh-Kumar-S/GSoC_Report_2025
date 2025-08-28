@@ -12,10 +12,10 @@ To improve data logging, I implemented a complete CSV workflow:
   Users can export recorded sensor readings into CSV files with timestamps and custom file names.  
 
 - **Import**  
-  Previously recorded sessions can be re-imported into the app for review and visualization.  
+  Users can import CSV files directly from device storage into the app for review and visualization.  
 
 - **Visualization**  
-  Both live and imported data can be visualized using **interactive charts**, enabling pattern recognition and insights.  
+  Both recorded and imported data can be visualized using **interactive charts**, enabling pattern recognition and insights.  
 
 - **Sharing**  
   CSV files can be shared externally, making it easier for users to collaborate or analyze data in other scientific tools.  

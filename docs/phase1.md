@@ -6,12 +6,12 @@ To ensure reusability and consistency across the app, I created **modular widget
 ## Instruments Implemented
 The following instruments were ported into the PSLab Flutter app:
 
-- **Compass**  
-- **Gyroscope**  
-- **Sound Meter**  
-- **Lux Meter**  
-- **Barometer**  
-- **Thermometer**  
+- [**Compass**](https://github.com/fossasia/pslab-app/pull/2710)  
+- [**Gyroscope**](https://github.com/fossasia/pslab-app/pull/2723)  
+- [**Sound Meter**](https://github.com/fossasia/pslab-app/pull/2739)  
+- [**Lux Meter**](https://github.com/fossasia/pslab-app/pull/2733)  
+- [**Barometer**](https://github.com/fossasia/pslab-app/pull/2743)  
+- [**Thermometer**](https://github.com/fossasia/pslab-app/pull/2761)  
 
 | <img width="250" alt="luxmeter" src="../images/luxmeter.png" /> | <img width="250" alt="compass" src="../images/compass.png" /> | <img width="250" alt="soundmeter" src="../images/soundmeter.png" /> |
 |---|---|---|

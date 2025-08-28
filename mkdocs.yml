@@ -1,4 +1,4 @@
-site_name: GSoC 2025 Final Report
+site_name: GSoC 2025 - Final Report
 
 theme:
   name: material
@@ -52,3 +52,5 @@ extra:
     - icon: fontawesome/solid/envelope
       link: mailto:yugeshkumar3549@gmail.com
 
+extra_css:
+  - stylesheets/typography.css

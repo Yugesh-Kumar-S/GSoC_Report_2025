@@ -13,6 +13,15 @@ As PSLab transitions from a native Android app to a Flutter-based cross-platform
 - **Project Title:** [PSLab : Sensor Module Integration, Experiment Framework, and Data Intelligence Tools](https://summerofcode.withgoogle.com/programs/2025/projects/AD7fchJF)
 - **Organization:** [FOSSASIA](https://fossasia.org/)
 - **Mentors:** [Marc Nause](https://github.com/marcnause), [Padmal](https://github.com/CloudyPadmal), [Alexander Bessman](https://github.com/bessman)
-- **GitHub Repository:** [Link to repo](https://github.com/fossasia/pslab-app)
+- **GitHub Repository:** [pslab-app](https://github.com/fossasia/pslab-app)
 
 ---
+
+## Work Summary
+
+The detailed contributions and work completed are documented in the following sections
+
+- [Phase 1 Report](phase1)  
+- [Phase 2 Report](phase2)  
+
+Please refer to these sections for a complete breakdown of the work completed during GSoC 2025.
