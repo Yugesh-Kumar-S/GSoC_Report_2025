@@ -1,0 +1,54 @@
+site_name: GSoC 2025 Final Report
+
+theme:
+  name: material
+  logo: /images/Yugesh_icon.png
+  palette:
+    - scheme: default
+      primary: deep purple
+      accent: indigo
+      toggle:
+        icon: material/weather-night
+        name: Switch to dark mode
+    - scheme: slate
+      primary: deep purple
+      accent: indigo
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to light mode
+  font:
+    text: roboto
+    code: Fira Code
+  features:
+    - navigation.sections
+    - navigation.top
+    - navigation.tabs
+    - toc.integrate
+    - search.suggest
+    - search.highlight
+  
+
+nav:
+  - Overview: index.md
+  - Phase 1: phase1.md
+  - Phase 2: phase2.md
+  - Contributions: others.md
+
+markdown_extensions:
+  - attr_list
+  - md_in_html
+
+
+
+copyright: |
+  &copy; 2025 <a href="https://github.com/Yugesh-Kumar-S"  target="_blank" rel="noopener">Yugesh Kumar</a>
+
+extra:
+  social:
+    - icon: fontawesome/brands/github-alt
+      link: https://github.com/Yugesh-Kumar-S
+    - icon: fontawesome/brands/linkedin
+      link: https://www.linkedin.com/in/yugeshkumar3549/
+    - icon: fontawesome/solid/envelope
+      link: mailto:yugeshkumar3549@gmail.com
+
